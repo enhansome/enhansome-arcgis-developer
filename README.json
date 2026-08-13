@@ -1,0 +1,828 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ArcGIS Core APIs & Libraries:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArcGIS REST APIs collections",
+              "description": "Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-02-22T13:49:29Z",
+                "owner": "esri-es",
+                "repo": "ArcGIS-REST-API",
+                "stars": 75
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Integrations & Plugins (third-party libraries):",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Esri-gl",
+              "description": "A community-maintained plugin that enables the use of ArcGIS services in Mapbox GL JS and MapLibre GL JS applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-16T21:00:17Z",
+                "owner": "muimsd",
+                "repo": "esri-gl",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SDKs for Extending ArcGIS Products:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArcGIS CityEngine SDKs (C++)",
+              "description": "C++ APIs, documentation, and examples for the Procedural Runtime (PRT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-01T13:52:05Z",
+                "owner": "Esri",
+                "repo": "cityengine-sdk",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ArcGIS CityEngine SDKs (Python)",
+              "description": "Python bindings for the Procedural Runtime (PRT) of CityEngine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-02-07T21:10:38Z",
+                "owner": "Esri",
+                "repo": "pyprt",
+                "stars": 73
+              }
+            }
+          ]
+        }
+      ],
+      "title": "APIs and SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "generator-esri-appbuilder-js",
+          "description": "Yeoman generator to help customize Esri's Web AppBuilder.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-23T15:29:00Z",
+            "owner": "Esri",
+            "repo": "generator-esri-appbuilder-js",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@arcgis/cli",
+          "description": "Quickly scaffold various applications for the ArcGIS API for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-02-02T21:45:25Z",
+            "owner": "Esri",
+            "repo": "arcgis-js-cli",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koop-cli",
+          "description": "Tool to scaffold Koop applications and plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-05T18:52:21Z",
+            "owner": "koopjs",
+            "repo": "koop-cli",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Application generators and CLIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Esri/developer-support",
+          "description": "Community samples to help be successful with all ArcGIS developer products (Python, .NET, JavaScript, Android…).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T16:27:07Z",
+            "owner": "Esri",
+            "repo": "developer-support",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esrinederland/CoolScripts",
+          "description": "Esri Netherlands scripts and snippets for reuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-17T18:53:02Z",
+            "owner": "esrinederland",
+            "repo": "CoolScripts",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EsriJapan/arcgis-dev-resources",
+          "description": "ArcGIS Developers 開発リソース集 (by Esri Japan).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T08:06:43Z",
+            "owner": "EsriJapan",
+            "repo": "arcgis-dev-resources",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Arcade:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArcGIS Arcade Expression Templates",
+              "description": "Collection of reusable Arcade expressions across all supported profiles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-04-08T12:13:07Z",
+                "owner": "Esri",
+                "repo": "arcade-expressions",
+                "stars": 362
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "JavaScript:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Esri/jsapi-resources",
+              "description": "A collection of resources for developers using the ArcGIS API for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T18:51:57Z",
+                "owner": "Esri",
+                "repo": "jsapi-resources",
+                "stars": 770
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ArcGIS REST JS demos",
+              "description": "Demo apps built by Esri's REST JS maintainers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T18:09:51Z",
+                "owner": "Esri",
+                "repo": "arcgis-rest-js",
+                "stars": 390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Esri/arcgis-js-vscode-snippets",
+              "description": "Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-10-01T08:52:01Z",
+                "owner": "Esri",
+                "repo": "arcgis-js-vscode-snippets",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RalucaNicola/code-snippets-arcgis-api-js",
+              "description": "A collection of code snippets for ArcGIS API for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-07-20T10:32:01Z",
+                "owner": "RalucaNicola",
+                "repo": "code-snippets-arcgis-api-js",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arcgis-js-api-starter-apps",
+              "description": "Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-16T10:57:05Z",
+                "owner": "hhkaos",
+                "repo": "arcgis-js-sdk-starter-apps",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "esrinederland/CoolMaps",
+              "description": "Shows cool example maps you can use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2024-10-30T10:20:52Z",
+                "owner": "esrinederland",
+                "repo": "CoolMaps",
+                "stars": 20
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Code samples and snippets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Core geospatial processing libraries:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gdal",
+              "description": "Translator library for raster and vector geospatial data formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-12T21:04:50Z",
+                "owner": "OSGeo",
+                "repo": "gdal",
+                "stars": 6020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "loam",
+              "description": "JavaScript wrapper for GDAL in the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-11-09T17:18:22Z",
+                "owner": "azavea",
+                "repo": "loam",
+                "stars": 226
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Format conversion:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "terraformer",
+              "description": "Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-08T11:06:03Z",
+                "owner": "terraformer-js",
+                "repo": "terraformer",
+                "stars": 238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tokml",
+              "description": "Convert GeoJSON to KML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-06-29T15:20:53Z",
+                "owner": "mapbox",
+                "repo": "tokml",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojsonio",
+              "description": "Convert many data formats to and from GeoJSON and TopoJSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2023-10-25T15:12:42Z",
+                "owner": "ropensci",
+                "repo": "geojsonio",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "geojson2svg",
+              "description": "Render GeoJSON into SVG using an inline or external stylesheet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-02-03T14:44:25Z",
+                "owner": "w8r",
+                "repo": "geojson2svg",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arcgis-json-to-geojson",
+              "description": "Convert layer in ArcGIS JSON spec to GeoJSON spec.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vue",
+                "last_commit": "2024-07-24T01:27:24Z",
+                "owner": "gavinr",
+                "repo": "arcgis-json-to-geojson",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gtfs2geojson",
+              "description": "Convert GTFS data into GeoJSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-11-14T16:51:50Z",
+                "owner": "node-geojson",
+                "repo": "gtfs2geojson",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "img2geojson",
+              "description": "Drag an image onto a map, trace the paths you need, and export as GeoJSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-08-03T02:02:32Z",
+                "owner": "caseymm",
+                "repo": "img2geojson",
+                "stars": 22
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Simplification and generalization:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mapshaper",
+              "description": "Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T12:12:15Z",
+                "owner": "mbloch",
+                "repo": "mapshaper",
+                "stars": 4163
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Data conversion tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Developer tools:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Calcite Intellisense Visual Studio Code Extension",
+              "description": "Injects HTML IntelliSense (completion, hover, documentation) for Esri Calcite Design System web components, using Esri's official custom-data JSON.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "geojson2svg",
+                  "description": "Render GeoJSON into SVG using an inline or external stylesheet.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2023-02-03T14:44:25Z",
+                    "owner": "w8r",
+                    "repo": "geojson2svg",
+                    "stars": 65
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GUIs:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arcgis-vectortile-style-editor",
+              "description": "Minimalistic tool to update the styles of Esri Vector Basemaps through JSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-08-02T21:15:46Z",
+                "owner": "Esri",
+                "repo": "arcgis-vectortile-style-editor",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EsriUK mapstyler",
+              "description": "Quickly style an Esri vector tile layer using an image.",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Design and styling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "esri-loader",
+          "description": "A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e., from the CDN) in applications built with popular JavaScript frameworks and bundlers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-03-15T14:06:09Z",
+            "owner": "Esri",
+            "repo": "esri-loader",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esri-loader-hooks",
+          "description": "Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T21:22:39Z",
+            "owner": "tomwayson",
+            "repo": "esri-loader-hooks",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-sceneview",
+          "description": "A simple Esri SceneView React component that builds on the ArcGIS API for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-10T17:19:36Z",
+            "owner": "Esri",
+            "repo": "react-sceneview",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson-random-generator",
+          "description": "Generate and download random GeoJSON quickly for testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T20:27:58Z",
+            "owner": "erick-otenyo",
+            "repo": "geojson-random-generator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mercator-geographic-converter",
+          "description": "Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-06-08T05:42:50Z",
+            "owner": "hhkaos",
+            "repo": "mercator-geographic-converter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arcgis-geometry-calculations",
+          "description": "Web application to create and grab ArcGIS geometry calculations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-13T11:42:49Z",
+            "owner": "hhkaos",
+            "repo": "arcgis-geometry-calculations",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reducegeojson",
+          "description": "A tool to reduce the file size of GeoJSON files for web optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-11-28T23:30:03Z",
+            "owner": "radical-data",
+            "repo": "reducegeojson",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "histogrand",
+          "description": "Random value generator according to customized histograms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-04T17:58:47Z",
+            "owner": "hhkaos",
+            "repo": "histogrand",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arcgis-js-api-camera-helper",
+          "description": "Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-12T13:58:24Z",
+            "owner": "pjmclaughlin1979",
+            "repo": "arcgis-js-api-camera-helper",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Helpers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mapshaper",
+          "description": "Web application to simplify shapes, edit attribute data, clip, erase, dissolve, filter, etc. Supported file formats: Shapefile, GeoJSON, TopoJSON, and CSV files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T12:12:15Z",
+            "owner": "mbloch",
+            "repo": "mapshaper",
+            "stars": 4163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geojson.io",
+          "description": "Web application to visualize, generate, and edit geospatial vector data. Supports GeoJSON, TopoJSON, CSV, KML, WKT, and Shapefile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:37:23Z",
+            "owner": "mapbox",
+            "repo": "geojson.io",
+            "stars": 2220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpxstudio",
+          "description": "Online and open source GPX file editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-09-02T10:54:17Z",
+            "owner": "gpxstudio",
+            "repo": "gpxstudio.github.io",
+            "stars": 633
+          }
+        }
+      ],
+      "title": "Map and data exploration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Turf.js",
+          "description": "Geospatial analysis for browsers and Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:36:43Z",
+            "owner": "Turfjs",
+            "repo": "turf",
+            "stars": 10431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Esri/gis-tools-for-hadoop",
+          "description": "Collection of GIS tools for spatial analysis of big data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-07T18:52:00Z",
+            "owner": "Esri",
+            "repo": "gis-tools-for-hadoop",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Esri/spatial-framework-for-hadoop",
+          "description": "Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-10T18:36:23Z",
+            "owner": "Esri",
+            "repo": "spatial-framework-for-hadoop",
+            "stars": 376
+          }
+        }
+      ],
+      "title": "Spatial Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Indexed 3D Scene Layers",
+          "description": "Service and package standard of containers for arbitrarily large amounts of geographic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-31T18:21:57Z",
+            "owner": "Esri",
+            "repo": "i3s-spec",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoServices spec",
+          "description": "Open Web Foundation REST-based API that provides complete access to structured geospatial data used by Esri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-13T12:06:37Z",
+            "owner": "koopjs",
+            "repo": "FeatureServer",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cartographic Information Model spec",
+          "description": "Map content specification used to persist and transfer cartographic descriptions of GIS datasets represented in JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T19:55:28Z",
+            "owner": "Esri",
+            "repo": "cim-spec",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tile Package Specification",
+          "description": "Compressed file containing a set of tiles and a tiling scheme, which can be used as a basemap in ArcGIS applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-30T22:35:44Z",
+            "owner": "Esri",
+            "repo": "tile-package-spec",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Specifications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:05.795Z",
+    "original_repository": "Esri/awesome-arcgis-developer",
+    "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
+    "enhanced_repository": "enhansome/enhansome-arcgis-developer",
+    "enhanced_repository_description": null,
+    "title": "Awesome ArcGIS Developers with stars"
+  }
+}
