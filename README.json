@@ -170,7 +170,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T08:06:43Z",
+            "last_commit": "2026-08-14T06:18:09Z",
             "owner": "EsriJapan",
             "repo": "arcgis-dev-resources",
             "stars": 10
@@ -314,10 +314,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-13T11:12:22Z",
+                "last_commit": "2026-08-14T09:44:28Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6021
+                "stars": 6020
               }
             },
             {
@@ -457,7 +457,7 @@
                 "last_commit": "2026-08-12T12:12:15Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4163
+                "stars": 4164
               }
             }
           ]
@@ -672,7 +672,7 @@
             "last_commit": "2026-08-12T12:12:15Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4163
+            "stars": 4164
           }
         },
         {
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:14:33.990Z",
+    "last_updated": "2026-08-14T11:12:27.294Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
     "enhanced_repository": "enhansome/enhansome-arcgis-developer",
