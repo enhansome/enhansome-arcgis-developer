@@ -314,7 +314,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-14T19:46:05Z",
+                "last_commit": "2026-08-15T18:31:06Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
                 "stars": 6020
@@ -454,7 +454,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T12:12:15Z",
+                "last_commit": "2026-08-15T20:07:54Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
                 "stars": 4164
@@ -669,7 +669,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T12:12:15Z",
+            "last_commit": "2026-08-15T20:07:54Z",
             "owner": "mbloch",
             "repo": "mapshaper",
             "stars": 4164
@@ -818,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:43:27.165Z",
+    "last_updated": "2026-08-16T10:43:57.730Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
     "enhanced_repository": "enhansome/enhansome-arcgis-developer",
