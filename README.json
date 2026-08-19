@@ -64,7 +64,7 @@
                 "last_commit": "2026-07-01T13:52:05Z",
                 "owner": "Esri",
                 "repo": "cityengine-sdk",
-                "stars": 222
+                "stars": 223
               }
             },
             {
@@ -1040,8 +1040,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:50:52.033Z",
+    "last_updated": "2026-08-19T12:21:07.009Z",
     "original_repository": "Esri/awesome-arcgis-developer",
+    "original_repository_id": 373608552,
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
     "enhanced_repository": "enhansome/enhansome-arcgis-developer",
     "enhanced_repository_description": null,

@@ -65,7 +65,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
   * [ArcGIS integrations with Leaflet](https://developers.arcgis.com/esri-leaflet/) - Learn how to connect Leaflet apps with ArcGIS services using the Esri-maintained Esri Leaflet plugin and ArcGIS REST JS, including tutorials, API references, and sample code.
 
 * SDKs for Extending ArcGIS Products:
-  * [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) ⭐ 222 | 🐛 0 | 📅 2026-07-01 - C++ APIs, documentation, and examples for the Procedural Runtime (PRT).
+  * [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) ⭐ 223 | 🐛 0 | 📅 2026-07-01 - C++ APIs, documentation, and examples for the Procedural Runtime (PRT).
   * [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) ⭐ 73 | 🐛 0 | 🌐 C++ | 📅 2026-02-07 - Python bindings for the *Procedural Runtime* (PRT) of CityEngine.
   * [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference, and samples to communicate with ArcGIS Earth.
   * [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference, and sample code to extend ArcGIS Enterprise.
@@ -138,7 +138,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 ## Data conversion tools
 
 * Core geospatial processing libraries:
-  * [gdal](https://github.com/OSGeo/gdal) ⭐ 6,022 | 🐛 563 | 🌐 C++ | 📅 2026-08-19 - Translator library for raster and vector geospatial data formats.
+  * [gdal](https://github.com/OSGeo/gdal) ⭐ 6,022 | 🐛 564 | 🌐 C++ | 📅 2026-08-19 - Translator library for raster and vector geospatial data formats.
   * [loam](https://github.com/azavea/loam) ⭐ 226 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-09 - JavaScript wrapper for GDAL in the browser.
   * [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Python interface to the ArcGIS geoprocessing framework for automating spatial analysis, data management, and mapping.
 * Format conversion:
