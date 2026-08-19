@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 39182815,
                 "language": null,
                 "last_commit": "2022-02-22T13:49:29Z",
                 "owner": "esri-es",
@@ -36,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1052872170,
                 "language": "TypeScript",
                 "last_commit": "2026-08-15T07:34:54Z",
                 "owner": "muimsd",
@@ -57,6 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15115821,
                 "language": null,
                 "last_commit": "2026-07-01T13:52:05Z",
                 "owner": "Esri",
@@ -71,6 +74,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 228441751,
                 "language": "C++",
                 "last_commit": "2026-02-07T21:10:38Z",
                 "owner": "Esri",
@@ -84,7 +88,7 @@
       "title": "APIs and SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -93,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20706001,
             "language": "JavaScript",
             "last_commit": "2022-05-23T15:29:00Z",
             "owner": "Esri",
@@ -107,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132804458,
             "language": "TypeScript",
             "last_commit": "2024-02-02T21:45:25Z",
             "owner": "Esri",
@@ -121,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158146030,
             "language": "JavaScript",
             "last_commit": "2023-12-05T18:52:21Z",
             "owner": "koopjs",
@@ -132,7 +139,7 @@
       "title": "Application generators and CLIs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -141,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19163372,
             "language": "C#",
             "last_commit": "2026-07-31T16:27:07Z",
             "owner": "Esri",
@@ -155,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327276916,
             "language": "Python",
             "last_commit": "2023-10-17T18:53:02Z",
             "owner": "esrinederland",
@@ -169,8 +178,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44304560,
             "language": "HTML",
-            "last_commit": "2026-08-17T10:26:30Z",
+            "last_commit": "2026-08-19T09:18:32Z",
             "owner": "EsriJapan",
             "repo": "arcgis-dev-resources",
             "stars": 10
@@ -188,6 +198,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 118975834,
                 "language": "JavaScript",
                 "last_commit": "2026-04-08T12:13:07Z",
                 "owner": "Esri",
@@ -209,6 +220,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17525180,
                 "language": "TypeScript",
                 "last_commit": "2026-07-08T18:51:57Z",
                 "owner": "Esri",
@@ -223,6 +235,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 96794098,
                 "language": "TypeScript",
                 "last_commit": "2026-08-12T18:09:51Z",
                 "owner": "Esri",
@@ -237,6 +250,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 185437221,
                 "language": "HTML",
                 "last_commit": "2025-10-01T08:52:01Z",
                 "owner": "Esri",
@@ -251,6 +265,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160030539,
                 "language": "JavaScript",
                 "last_commit": "2020-07-20T10:32:01Z",
                 "owner": "RalucaNicola",
@@ -265,6 +280,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 389630102,
                 "language": "JavaScript",
                 "last_commit": "2023-01-16T10:57:05Z",
                 "owner": "hhkaos",
@@ -286,6 +302,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 136967541,
                 "language": "HTML",
                 "last_commit": "2024-10-30T10:20:52Z",
                 "owner": "esrinederland",
@@ -299,7 +316,7 @@
       "title": "Code samples and snippets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -313,8 +330,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 6148317,
                 "language": "C++",
-                "last_commit": "2026-08-18T09:42:44Z",
+                "last_commit": "2026-08-19T08:22:47Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
                 "stars": 6022
@@ -327,6 +345,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 119407665,
                 "language": "JavaScript",
                 "last_commit": "2023-11-09T17:18:22Z",
                 "owner": "azavea",
@@ -348,6 +367,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163339072,
                 "language": "JavaScript",
                 "last_commit": "2026-08-08T11:06:03Z",
                 "owner": "terraformer-js",
@@ -362,6 +382,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13427749,
                 "language": "JavaScript",
                 "last_commit": "2026-06-29T15:20:53Z",
                 "owner": "mapbox",
@@ -376,6 +397,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18337862,
                 "language": "R",
                 "last_commit": "2023-10-25T15:12:42Z",
                 "owner": "ropensci",
@@ -390,6 +412,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 67067631,
                 "language": "JavaScript",
                 "last_commit": "2023-02-03T14:44:25Z",
                 "owner": "w8r",
@@ -404,6 +427,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14913646,
                 "language": "Vue",
                 "last_commit": "2024-07-24T01:27:24Z",
                 "owner": "gavinr",
@@ -418,6 +442,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 44996268,
                 "language": "JavaScript",
                 "last_commit": "2023-11-14T16:51:50Z",
                 "owner": "node-geojson",
@@ -432,6 +457,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 501444803,
                 "language": "JavaScript",
                 "last_commit": "2022-08-03T02:02:32Z",
                 "owner": "caseymm",
@@ -453,6 +479,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8297971,
                 "language": "JavaScript",
                 "last_commit": "2026-08-15T20:07:54Z",
                 "owner": "mbloch",
@@ -466,7 +493,7 @@
       "title": "Data conversion tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -485,6 +512,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 67067631,
                     "language": "JavaScript",
                     "last_commit": "2023-02-03T14:44:25Z",
                     "owner": "w8r",
@@ -508,18 +536,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46812482,
                 "language": "CSS",
                 "last_commit": "2018-08-02T21:15:46Z",
                 "owner": "Esri",
                 "repo": "arcgis-vectortile-style-editor",
                 "stars": 92
               }
-            },
-            {
-              "node_type": "item",
-              "title": "EsriUK mapstyler",
-              "description": "Quickly style an Esri vector tile layer using an image.",
-              "children": []
             }
           ]
         }
@@ -527,7 +550,7 @@
       "title": "Design and styling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -536,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74071376,
             "language": "TypeScript",
             "last_commit": "2024-03-15T14:06:09Z",
             "owner": "Esri",
@@ -550,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 245555844,
             "language": "JavaScript",
             "last_commit": "2026-07-30T21:22:39Z",
             "owner": "tomwayson",
@@ -564,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153608371,
             "language": "JavaScript",
             "last_commit": "2021-11-10T17:19:36Z",
             "owner": "Esri",
@@ -578,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125182092,
             "language": "JavaScript",
             "last_commit": "2022-12-07T20:27:58Z",
             "owner": "erick-otenyo",
@@ -592,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371752333,
             "language": "HTML",
             "last_commit": "2021-06-08T05:42:50Z",
             "owner": "hhkaos",
@@ -606,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583626462,
             "language": "HTML",
             "last_commit": "2023-01-13T11:42:49Z",
             "owner": "hhkaos",
@@ -620,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710931133,
             "language": "Svelte",
             "last_commit": "2025-11-28T23:30:03Z",
             "owner": "radical-data",
@@ -634,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553446569,
             "language": "JavaScript",
             "last_commit": "2023-02-04T17:58:47Z",
             "owner": "hhkaos",
@@ -648,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327961464,
             "language": null,
             "last_commit": "2020-12-12T13:58:24Z",
             "owner": "pjmclaughlin1979",
@@ -659,7 +691,7 @@
       "title": "Helpers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -668,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8297971,
             "language": "JavaScript",
             "last_commit": "2026-08-15T20:07:54Z",
             "owner": "mbloch",
@@ -682,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9989526,
             "language": "TypeScript",
             "last_commit": "2026-08-17T20:17:11Z",
             "owner": "mapbox",
@@ -696,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 266551443,
             "language": "HTML",
             "last_commit": "2024-09-02T10:54:17Z",
             "owner": "gpxstudio",
@@ -707,7 +742,7 @@
       "title": "Map and data exploration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -716,11 +751,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13301038,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:00:37Z",
+            "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10436
+            "stars": 10438
           }
         },
         {
@@ -730,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8759971,
             "language": null,
             "last_commit": "2022-04-07T18:52:00Z",
             "owner": "Esri",
@@ -744,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7563814,
             "language": "Java",
             "last_commit": "2026-07-10T18:36:23Z",
             "owner": "Esri",
@@ -755,7 +793,7 @@
       "title": "Spatial Analysis"
     },
     {
-      "description": "",
+      "description": "Related awesome lists\nIssues\nAny open issues are fair game. Even just telling us what you want to see would be extremely helpful!\nYou can file an issue to request or suggest a specific resource.\nContributing\nEsri welcomes contributions from anyone and everyone. You can issue a pull request to propose an update, but before doing it, please:\nFor more information, please see Esri's guidelines for contributing.\nFootnotes\nCopyright 2025 Esri",
       "items": [
         {
           "node_type": "item",
@@ -764,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34001675,
             "language": null,
             "last_commit": "2025-01-31T18:21:57Z",
             "owner": "Esri",
@@ -778,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58579794,
             "language": "JavaScript",
             "last_commit": "2023-07-13T12:06:37Z",
             "owner": "koopjs",
@@ -792,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123035603,
             "language": null,
             "last_commit": "2026-05-13T19:55:28Z",
             "owner": "Esri",
@@ -806,11 +847,192 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195855033,
             "language": null,
             "last_commit": "2019-08-30T22:35:44Z",
             "owner": "Esri",
             "repo": "tile-package-spec",
             "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-public-datasets",
+          "description": "A topic-centric list of high-quality open datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26898879,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-semantic-segmentation",
+          "description": "Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43595048,
+            "language": null,
+            "last_commit": "2021-05-08T13:40:11Z",
+            "owner": "mrgloom",
+            "repo": "awesome-semantic-segmentation",
+            "stars": 10850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-gis",
+          "description": "GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52671720,
+            "language": null,
+            "last_commit": "2026-07-21T09:10:54Z",
+            "owner": "sshuair",
+            "repo": "awesome-gis",
+            "stars": 5484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-geospatial",
+          "description": "Databases, radar, lidar, web map development, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58225794,
+            "language": null,
+            "last_commit": "2026-08-19T07:45:54Z",
+            "owner": "sacridini",
+            "repo": "Awesome-Geospatial",
+            "stars": 5258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-satellite-imagery-datasets",
+          "description": "List of satellite image training datasets with annotations for computer vision and deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 131768562,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-json-datasets",
+          "description": "JSON datasets that don't require authentication about: climate, crime, government, NASA, travel, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 40502578,
+            "language": "JavaScript",
+            "last_commit": "2026-03-01T22:07:10Z",
+            "owner": "jdorfman",
+            "repo": "awesome-json-datasets",
+            "stars": 3609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-vector-tiles",
+          "description": "Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41861984,
+            "language": null,
+            "last_commit": "2026-08-10T19:17:38Z",
+            "owner": "mapbox",
+            "repo": "awesome-vector-tiles",
+            "stars": 2621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-geojson",
+          "description": "GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36456042,
+            "language": null,
+            "last_commit": "2026-07-23T13:51:40Z",
+            "owner": "tmcw",
+            "repo": "awesome-geojson",
+            "stars": 2527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-remote-sensing-change-detection",
+          "description": "List of datasets, codes, and contests related to remote sensing change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155948788,
+            "language": null,
+            "last_commit": "2026-04-16T14:44:49Z",
+            "owner": "wenhwu",
+            "repo": "awesome-remote-sensing-change-detection",
+            "stars": 2302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-open-geoscience",
+          "description": "Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107413465,
+            "language": null,
+            "last_commit": "2026-05-26T11:55:08Z",
+            "owner": "softwareunderground",
+            "repo": "awesome-open-geoscience",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-earthobservation-code",
+          "description": "Tools, tutorials, code, helpful projects, and links about Earth Observation and Geospatial stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255615540,
+            "language": "HTML",
+            "last_commit": "2026-05-13T19:36:13Z",
+            "owner": "acgeospatial",
+            "repo": "awesome-earthobservation-code",
+            "stars": 1378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-arcgis",
+          "description": "Awesome list with a wiki flavor with resources about Esri and ArcGIS, organized by: products, industries, file formats, content providers, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76625738,
+            "language": "HTML",
+            "last_commit": "2021-01-05T06:05:31Z",
+            "owner": "esri-es",
+            "repo": "awesome-arcgis",
+            "stars": 30
           }
         }
       ],
@@ -818,7 +1040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:51:15.030Z",
+    "last_updated": "2026-08-19T10:50:52.033Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
     "enhanced_repository": "enhansome/enhansome-arcgis-developer",
