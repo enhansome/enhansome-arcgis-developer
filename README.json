@@ -203,7 +203,7 @@
                 "last_commit": "2026-04-08T12:13:07Z",
                 "owner": "Esri",
                 "repo": "arcade-expressions",
-                "stars": 362
+                "stars": 363
               }
             }
           ]
@@ -225,7 +225,7 @@
                 "last_commit": "2026-07-08T18:51:57Z",
                 "owner": "Esri",
                 "repo": "jsapi-resources",
-                "stars": 770
+                "stars": 771
               }
             },
             {
@@ -332,10 +332,10 @@
                 "archived": false,
                 "id": 6148317,
                 "language": "C++",
-                "last_commit": "2026-08-20T10:46:13Z",
+                "last_commit": "2026-08-21T10:49:04Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6025
+                "stars": 6026
               }
             },
             {
@@ -720,7 +720,7 @@
             "last_commit": "2026-08-17T20:17:11Z",
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2224
+            "stars": 2225
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10442
+            "stars": 10445
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78188
+            "stars": 78352
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2021-05-08T13:40:11Z",
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10850
+            "stars": 10848
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5489
+            "stars": 5491
           }
         },
         {
@@ -909,10 +909,10 @@
             "archived": false,
             "id": 58225794,
             "language": null,
-            "last_commit": "2026-08-19T07:45:54Z",
+            "last_commit": "2026-08-20T12:40:36Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5262
+            "stars": 5266
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-03-01T22:07:10Z",
             "owner": "jdorfman",
             "repo": "awesome-json-datasets",
-            "stars": 3610
+            "stars": 3612
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-07-23T13:51:40Z",
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2528
+            "stars": 2529
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1816
+            "stars": 1818
           }
         },
         {
@@ -1040,7 +1040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:52:23.133Z",
+    "last_updated": "2026-08-21T10:53:22.632Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_id": 373608552,
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
