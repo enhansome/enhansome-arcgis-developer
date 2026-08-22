@@ -332,10 +332,10 @@
                 "archived": false,
                 "id": 6148317,
                 "language": "C++",
-                "last_commit": "2026-08-21T10:49:04Z",
+                "last_commit": "2026-08-22T07:10:40Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6026
+                "stars": 6027
               }
             },
             {
@@ -481,10 +481,10 @@
                 "archived": false,
                 "id": 8297971,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T02:20:53Z",
+                "last_commit": "2026-08-21T17:20:48Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4165
+                "stars": 4166
               }
             }
           ]
@@ -702,10 +702,10 @@
             "archived": false,
             "id": 8297971,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T02:20:53Z",
+            "last_commit": "2026-08-21T17:20:48Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4165
+            "stars": 4166
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-08-17T20:17:11Z",
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2225
+            "stars": 2226
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10445
+            "stars": 10448
           }
         },
         {
@@ -864,10 +864,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-04T19:54:53Z",
+            "last_commit": "2026-08-21T17:12:16Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78352
+            "stars": 78434
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5491
+            "stars": 5493
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-08-20T12:40:36Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5266
+            "stars": 5267
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3915
+            "stars": 3916
           }
         },
         {
@@ -1040,7 +1040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:53:22.632Z",
+    "last_updated": "2026-08-22T10:44:30.811Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_id": 373608552,
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
