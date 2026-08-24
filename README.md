@@ -281,7 +281,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 **Related awesome lists**
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,578 | 🐛 159 | 📅 2026-08-23 - A topic-centric list of high-quality open datasets.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,583 | 🐛 159 | 📅 2026-08-23 - A topic-centric list of high-quality open datasets.
 * [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,848 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
 * [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,497 | 🐛 61 | 📅 2026-07-21 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
 * [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,269 | 🐛 2 | 📅 2026-08-20 - Databases, radar, lidar, web map development, etc.
@@ -308,8 +308,8 @@ You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issue
 
 Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) ⭐ 330 | 🐛 9 | 📅 2026-04-14 to propose an update, but before doing it, please:
 
-* Check the [contributing guidelines for this repo](./CONTRIBUTING.md).
 * Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues) ⭐ 330 | 🐛 9 | 📅 2026-04-14.
+* Check the [contributing guidelines for this repo](./CONTRIBUTING.md).
 
 For more information, please see Esri's [guidelines for contributing](https://github.com/esri/contributing) ⭐ 17 | 🐛 1 | 📅 2026-05-20.
 

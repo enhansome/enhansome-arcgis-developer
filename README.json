@@ -867,7 +867,7 @@
             "last_commit": "2026-08-23T23:52:17Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78578
+            "stars": 78583
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3916
+            "stars": 3915
           }
         },
         {
@@ -1034,13 +1034,28 @@
             "repo": "awesome-arcgis",
             "stars": 30
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Take a look at previously logged issues",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373608552,
+            "language": null,
+            "last_commit": "2026-04-14T09:15:02Z",
+            "owner": "Esri",
+            "repo": "awesome-arcgis-developers",
+            "stars": 330
+          }
         }
       ],
       "title": "Specifications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:57:56.976Z",
+    "last_updated": "2026-08-24T14:33:22.203Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_id": 373608552,
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
