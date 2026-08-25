@@ -39,7 +39,7 @@
                 "archived": false,
                 "id": 1052872170,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:08:15Z",
+                "last_commit": "2026-08-25T07:13:52Z",
                 "owner": "muimsd",
                 "repo": "esri-gl",
                 "stars": 13
@@ -335,7 +335,7 @@
                 "last_commit": "2026-08-22T16:20:35Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6029
+                "stars": 6030
               }
             },
             {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10456
+            "stars": 10458
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78603
+            "stars": 78611
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2021-05-08T13:40:11Z",
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10848
+            "stars": 10847
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5498
+            "stars": 5499
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2309
+            "stars": 2310
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1819
+            "stars": 1820
           }
         },
         {
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:02.430Z",
+    "last_updated": "2026-08-25T10:55:31.617Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_id": 373608552,
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
