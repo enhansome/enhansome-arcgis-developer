@@ -39,7 +39,7 @@
                 "archived": false,
                 "id": 1052872170,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T07:34:54Z",
+                "last_commit": "2026-08-25T05:08:15Z",
                 "owner": "muimsd",
                 "repo": "esri-gl",
                 "stars": 13
@@ -237,10 +237,10 @@
                 "archived": false,
                 "id": 96794098,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T22:58:10Z",
+                "last_commit": "2026-08-24T22:10:38Z",
                 "owner": "Esri",
                 "repo": "arcgis-rest-js",
-                "stars": 390
+                "stars": 389
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-08-22T16:20:35Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6027
+                "stars": 6029
               }
             },
             {
@@ -484,7 +484,7 @@
                 "last_commit": "2026-08-21T17:20:48Z",
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4166
+                "stars": 4167
               }
             }
           ]
@@ -705,7 +705,7 @@
             "last_commit": "2026-08-21T17:20:48Z",
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4166
+            "stars": 4167
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10455
+            "stars": 10456
           }
         },
         {
@@ -864,10 +864,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-23T23:52:17Z",
+            "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78583
+            "stars": 78603
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2026-07-21T09:10:54Z",
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5497
+            "stars": 5498
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-08-20T12:40:36Z",
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5269
+            "stars": 5270
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-07-23T13:51:40Z",
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2529
+            "stars": 2530
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2026-04-16T14:44:49Z",
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2308
+            "stars": 2309
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1818
+            "stars": 1819
           }
         },
         {
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:22.203Z",
+    "last_updated": "2026-08-25T06:19:02.430Z",
     "original_repository": "Esri/awesome-arcgis-developer",
     "original_repository_id": 373608552,
     "original_repository_sha": "c215f75ae07307e26e0b41bda96c92e924e48561",
