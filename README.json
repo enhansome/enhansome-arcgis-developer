@@ -332,10 +332,10 @@
                 "archived": false,
                 "id": 6148317,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:15:58Z",
+                "last_commit": "2026-08-27T19:53:44Z",
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6032
+                "stars": 6033
               }
             },
             {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-18T17:02:51Z",
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10462
+            "stars": 10460
           }
         },
         {
@@ -864,10 +864,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T16:53:23Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78669
+            "stars": 78675
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-05-26T11:55:08Z",
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1823
+            "stars": 1824
           }
         },
         {
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:55.646Z",
+    "last_updated": "2026-08-27T20:36:06.109Z",
     "original_repository_info": {
       "archived": false,
       "id": 373608552,
