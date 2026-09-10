@@ -557,11 +557,11 @@
                 "id": 6148317,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T12:54:42Z",
-                "open_issues": 565,
+                "last_commit": "2026-09-10T14:19:00Z",
+                "open_issues": 567,
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6050,
+                "stars": 6052,
                 "topics": [
                   "geospatial-data",
                   "raster",
@@ -800,11 +800,11 @@
                 "id": 8297971,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T12:40:47Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-09T20:17:52Z",
+                "open_issues": 124,
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4173,
+                "stars": 4174,
                 "topics": [
                   "csv",
                   "geojson",
@@ -1160,11 +1160,11 @@
             "id": 8297971,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T12:40:47Z",
-            "open_issues": 133,
+            "last_commit": "2026-09-09T20:17:52Z",
+            "open_issues": 124,
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4173,
+            "stars": 4174,
             "topics": [
               "csv",
               "geojson",
@@ -1192,7 +1192,7 @@
             "open_issues": 26,
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2242,
+            "stars": 2243,
             "topics": [
               "geojson"
             ]
@@ -1245,7 +1245,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-07T19:17:44Z",
-            "open_issues": 285,
+            "open_issues": 287,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10475,
@@ -1444,11 +1444,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-08T20:10:16Z",
-            "open_issues": 158,
+            "last_commit": "2026-09-10T14:04:23Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78879,
+            "stars": 78892,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1500,7 +1500,7 @@
             "open_issues": 67,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5516,
+            "stars": 5515,
             "topics": [
               "awesome",
               "geo",
@@ -1530,7 +1530,7 @@
             "open_issues": 2,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5279,
+            "stars": 5280,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1674,7 +1674,7 @@
             "open_issues": 2,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2324,
+            "stars": 2325,
             "topics": [
               "awesome",
               "change-detection",
@@ -1701,7 +1701,7 @@
             "open_issues": 12,
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1835,
+            "stars": 1837,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:40:12.108Z",
+    "last_updated": "2026-09-10T14:30:59.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
