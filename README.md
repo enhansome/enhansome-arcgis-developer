@@ -115,12 +115,12 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 * Android:
   * [ArcGIS Maps SDK for Kotlin samples](https://developers.arcgis.com/kotlin/sample-code/) - Esri's official ArcGIS Maps SDK for Kotlin product team samples for Kotlin.
 * Arcade:
-  * [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) ⭐ 364 | 🐛 17 | 🌐 JavaScript | 📅 2026-04-08 - Collection of reusable Arcade expressions across all supported profiles.
+  * [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) ⭐ 365 | 🐛 17 | 🌐 JavaScript | 📅 2026-04-08 - Collection of reusable Arcade expressions across all supported profiles.
 * iOS:
   * [ArcGIS Maps SDK for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Maps SDK for iOS product team samples.
 * JavaScript:
-  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 772 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08 - A collection of resources for developers using the ArcGIS API for JavaScript.
-  * [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) ⭐ 390 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-05 - Demo apps built by Esri's REST JS maintainers.
+  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 773 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08 - A collection of resources for developers using the ArcGIS API for JavaScript.
+  * [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) ⭐ 391 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-05 - Demo apps built by Esri's REST JS maintainers.
   * [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) ⭐ 28 | 🐛 11 | 🌐 HTML | 📅 2025-10-01 - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
   * [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-20 - A collection of code snippets for ArcGIS API for JavaScript.
   * [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-16 - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
@@ -251,7 +251,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 <!--lint disable double-link-->
 
-* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,477 | 🐛 287 | 🌐 TypeScript | 📅 2026-09-07 - Geospatial analysis for browsers and Node.js.
+* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,479 | 🐛 287 | 🌐 TypeScript | 📅 2026-09-07 - Geospatial analysis for browsers and Node.js.
 * [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) ⭐ 524 | 🐛 21 | 📅 2022-04-07 - Collection of GIS tools for spatial analysis of big data.
 * [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop) ⭐ 376 | 🐛 25 | 🌐 Java | 📅 2026-07-10 - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
 * [ArcGIS Analysis services](https://developers.arcgis.com/rest/analysis-services/) - Spatial, raster, elevation, hydrology, and utility network analysis.
@@ -281,10 +281,10 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 **Related awesome lists**
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,912 | 🐛 159 | 📅 2026-09-10 - A topic-centric list of high-quality open datasets.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,924 | 🐛 159 | 📅 2026-09-11 - A topic-centric list of high-quality open datasets.
 * [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,846 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
 * [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,519 | 🐛 68 | 📅 2026-07-21 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,280 | 🐛 0 | 📅 2026-09-11 - Databases, radar, lidar, web map development, etc.
+* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,281 | 🐛 0 | 📅 2026-09-11 - Databases, radar, lidar, web map development, etc.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived - List of satellite image training datasets with annotations for computer vision and deep learning.
 * [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) ⚠️ Archived - JSON datasets that don't require authentication about: climate, crime, government, NASA, travel, etc.
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,626 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
@@ -321,4 +321,4 @@ Copyright 2025 Esri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
