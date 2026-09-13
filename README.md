@@ -65,7 +65,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
   * [ArcGIS integrations with Leaflet](https://developers.arcgis.com/esri-leaflet/) - Learn how to connect Leaflet apps with ArcGIS services using the Esri-maintained Esri Leaflet plugin and ArcGIS REST JS, including tutorials, API references, and sample code.
 
 * SDKs for Extending ArcGIS Products:
-  * [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) ⭐ 224 | 🐛 0 | 📅 2026-07-01 - C++ APIs, documentation, and examples for the Procedural Runtime (PRT).
+  * [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) ⭐ 223 | 🐛 0 | 📅 2026-07-01 - C++ APIs, documentation, and examples for the Procedural Runtime (PRT).
   * [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) ⭐ 73 | 🐛 0 | 🌐 C++ | 📅 2026-02-07 - Python bindings for the *Procedural Runtime* (PRT) of CityEngine.
   * [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference, and samples to communicate with ArcGIS Earth.
   * [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference, and sample code to extend ArcGIS Enterprise.
@@ -115,12 +115,12 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 * Android:
   * [ArcGIS Maps SDK for Kotlin samples](https://developers.arcgis.com/kotlin/sample-code/) - Esri's official ArcGIS Maps SDK for Kotlin product team samples for Kotlin.
 * Arcade:
-  * [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) ⭐ 365 | 🐛 17 | 🌐 JavaScript | 📅 2026-04-08 - Collection of reusable Arcade expressions across all supported profiles.
+  * [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) ⭐ 366 | 🐛 17 | 🌐 JavaScript | 📅 2026-04-08 - Collection of reusable Arcade expressions across all supported profiles.
 * iOS:
   * [ArcGIS Maps SDK for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Maps SDK for iOS product team samples.
 * JavaScript:
-  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 773 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08 - A collection of resources for developers using the ArcGIS API for JavaScript.
-  * [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) ⭐ 391 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-05 - Demo apps built by Esri's REST JS maintainers.
+  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 772 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08 - A collection of resources for developers using the ArcGIS API for JavaScript.
+  * [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) ⭐ 390 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-05 - Demo apps built by Esri's REST JS maintainers.
   * [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) ⭐ 28 | 🐛 11 | 🌐 HTML | 📅 2025-10-01 - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
   * [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-20 - A collection of code snippets for ArcGIS API for JavaScript.
   * [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-16 - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
@@ -138,11 +138,11 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 ## Data conversion tools
 
 * Core geospatial processing libraries:
-  * [gdal](https://github.com/OSGeo/gdal) ⭐ 6,055 | 🐛 568 | 🌐 C++ | 📅 2026-09-11 - Translator library for raster and vector geospatial data formats.
+  * [gdal](https://github.com/OSGeo/gdal) ⭐ 6,057 | 🐛 568 | 🌐 C++ | 📅 2026-09-11 - Translator library for raster and vector geospatial data formats.
   * [loam](https://github.com/azavea/loam) ⭐ 226 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-09 - JavaScript wrapper for GDAL in the browser.
   * [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Python interface to the ArcGIS geoprocessing framework for automating spatial analysis, data management, and mapping.
 * Format conversion:
-  * [terraformer](https://github.com/terraformer-js/terraformer) ⭐ 239 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
+  * [terraformer](https://github.com/terraformer-js/terraformer) ⭐ 238 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
   * [tokml](https://github.com/mapbox/tokml) ⭐ 193 | 🐛 10 | 🌐 JavaScript | 📅 2026-06-29 - Convert GeoJSON to KML.
   * [geojsonio](https://github.com/ropensci/geojsonio) ⭐ 154 | 🐛 10 | 🌐 R | 📅 2023-10-25 - Convert many data formats to and from GeoJSON and TopoJSON.
   * [geojson2svg](https://github.com/w8r/geojson2svg) ⭐ 65 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-03 - Render GeoJSON into SVG using an inline or external stylesheet.
@@ -192,7 +192,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
     <!--lint disable double-link-->
     * [geojson2svg](https://github.com/w8r/geojson2svg) ⭐ 65 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-03 - Render GeoJSON into SVG using an inline or external stylesheet.
 * GUIs:
-  * [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor) ⭐ 92 | 🐛 1 | 🌐 CSS | 📅 2018-08-02 - Minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
+  * [arcgis-vectortile-style-editor](https://github.com/Esri/arcgis-vectortile-style-editor) ⭐ 91 | 🐛 1 | 🌐 CSS | 📅 2018-08-02 - Minimalistic tool to update the styles of Esri Vector Basemaps through JSON.
   * [ArcGIS Vector Tile Style Editor](https://developers.arcgis.com/documentation/mapping-apis-and-services/tools/vector-tile-style-editor/) - Style vector tile basemap layers for applications.
   * [EsriUK mapstyler](https://github.com/EsriUK/mapstyler) - Quickly style an Esri vector tile layer using an image.
 
@@ -212,7 +212,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 * [esri-loader](https://github.com/Esri/esri-loader) ⚠️ Archived - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e., from the CDN) in applications built with popular JavaScript frameworks and bundlers.
 * [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) ⚠️ Archived - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
-* [react-sceneview](https://github.com/Esri/react-sceneview) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2021-11-10 - A simple Esri SceneView React component that builds on the ArcGIS API for JavaScript.
+* [react-sceneview](https://github.com/Esri/react-sceneview) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2021-11-10 - A simple Esri SceneView React component that builds on the ArcGIS API for JavaScript.
 * [geojson-random-generator](https://github.com/erick-otenyo/geojson-random-generator) ⭐ 5 | 🐛 23 | 🌐 JavaScript | 📅 2022-12-07 - Generate and download random GeoJSON quickly for testing.
 * [mercator-geographic-converter](https://github.com/hhkaos/mercator-geographic-converter/) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2021-06-08 - Simple coordinate converter between Geographic units (latitude, longitude) and Mercator units (x, y).
 * [arcgis-geometry-calculations](https://github.com/hhkaos/arcgis-geometry-calculations) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2023-01-13 - Web application to create and grab ArcGIS geometry calculations.
@@ -251,8 +251,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 <!--lint disable double-link-->
 
-* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,479 | 🐛 287 | 🌐 TypeScript | 📅 2026-09-07 - Geospatial analysis for browsers and Node.js.
-* [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) ⭐ 524 | 🐛 21 | 📅 2022-04-07 - Collection of GIS tools for spatial analysis of big data.
+* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,482 | 🐛 287 | 🌐 TypeScript | 📅 2026-09-07 - Geospatial analysis for browsers and Node.js.
+* [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) ⭐ 523 | 🐛 21 | 📅 2022-04-07 - Collection of GIS tools for spatial analysis of big data.
 * [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop) ⭐ 376 | 🐛 25 | 🌐 Java | 📅 2026-07-10 - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
 * [ArcGIS Analysis services](https://developers.arcgis.com/rest/analysis-services/) - Spatial, raster, elevation, hydrology, and utility network analysis.
 * [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine\&utm_source=chrome-extension#gsc.tab=0\&gsc.q=geometry%20engine%20site:developers.arcgis.com\&gsc.sort=) - Allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc.
@@ -281,16 +281,16 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 **Related awesome lists**
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,924 | 🐛 159 | 📅 2026-09-11 - A topic-centric list of high-quality open datasets.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,931 | 🐛 159 | 📅 2026-09-13 - A topic-centric list of high-quality open datasets.
 * [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,846 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,519 | 🐛 68 | 📅 2026-07-21 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,281 | 🐛 0 | 📅 2026-09-11 - Databases, radar, lidar, web map development, etc.
+* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,520 | 🐛 68 | 📅 2026-07-21 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,283 | 🐛 0 | 📅 2026-09-11 - Databases, radar, lidar, web map development, etc.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived - List of satellite image training datasets with annotations for computer vision and deep learning.
 * [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) ⚠️ Archived - JSON datasets that don't require authentication about: climate, crime, government, NASA, travel, etc.
-* [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,626 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
+* [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,627 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
 * [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,538 | 🐛 0 | 📅 2026-09-01 - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
-* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,326 | 🐛 2 | 📅 2026-09-09 - List of datasets, codes, and contests related to remote sensing change detection.
-* [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,838 | 🐛 12 | 📅 2026-05-26 - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
+* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,327 | 🐛 2 | 📅 2026-09-09 - List of datasets, codes, and contests related to remote sensing change detection.
+* [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,841 | 🐛 12 | 📅 2026-05-26 - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 * [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,382 | 🐛 9 | 🌐 HTML | 📅 2026-05-13 - Tools, tutorials, code, helpful projects, and links about Earth Observation and Geospatial stuff.
 * [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2021-01-05 - Awesome list with a wiki flavor with resources about Esri and ArcGIS, organized by: products, industries, file formats, content providers, etc.
 
@@ -321,4 +321,4 @@ Copyright 2025 Esri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
