@@ -557,11 +557,11 @@
                 "id": 6148317,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T11:39:48Z",
-                "open_issues": 575,
+                "last_commit": "2026-09-16T23:48:36Z",
+                "open_issues": 582,
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6067,
+                "stars": 6069,
                 "topics": [
                   "geospatial-data",
                   "raster",
@@ -1192,7 +1192,7 @@
             "open_issues": 26,
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2244,
+            "stars": 2245,
             "topics": [
               "geojson"
             ]
@@ -1248,7 +1248,7 @@
             "open_issues": 288,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10486,
+            "stars": 10488,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1444,11 +1444,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-16T14:34:55Z",
+            "last_commit": "2026-09-17T14:38:36Z",
             "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78983,
+            "stars": 79001,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1497,10 +1497,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5526,
+            "stars": 5527,
             "topics": [
               "awesome",
               "geo",
@@ -1527,10 +1527,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-16T12:38:49Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5290,
+            "stars": 5291,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1627,7 +1627,7 @@
             "open_issues": 3,
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2628,
+            "stars": 2630,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:55.154Z"
@@ -1648,7 +1648,7 @@
             "open_issues": 0,
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2539,
+            "stars": 2540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1674,7 +1674,7 @@
             "open_issues": 2,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2332,
+            "stars": 2333,
             "topics": [
               "awesome",
               "change-detection",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:02:15.492Z",
+    "last_updated": "2026-09-17T15:05:30.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
