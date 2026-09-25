@@ -265,7 +265,7 @@
             "open_issues": 7,
             "owner": "Esri",
             "repo": "developer-support",
-            "stars": 289,
+            "stars": 288,
             "topics": [
               "data-management",
               "native-development",
@@ -396,7 +396,7 @@
                 "id": 96794098,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T15:46:15Z",
+                "last_commit": "2026-09-24T23:19:41Z",
                 "open_issues": 58,
                 "owner": "Esri",
                 "repo": "arcgis-rest-js",
@@ -558,7 +558,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T17:35:24Z",
-                "open_issues": 593,
+                "open_issues": 596,
                 "owner": "OSGeo",
                 "repo": "gdal",
                 "stars": 6075,
@@ -800,7 +800,7 @@
                 "id": 8297971,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T12:50:02Z",
+                "last_commit": "2026-09-24T15:21:27Z",
                 "open_issues": 125,
                 "owner": "mbloch",
                 "repo": "mapshaper",
@@ -1160,7 +1160,7 @@
             "id": 8297971,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T12:50:02Z",
+            "last_commit": "2026-09-24T15:21:27Z",
             "open_issues": 125,
             "owner": "mbloch",
             "repo": "mapshaper",
@@ -1192,7 +1192,7 @@
             "open_issues": 28,
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2258,
+            "stars": 2261,
             "topics": [
               "geojson"
             ]
@@ -1448,7 +1448,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79136,
+            "stars": 79152,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1497,10 +1497,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5536,
+            "stars": 5539,
             "topics": [
               "awesome",
               "geo",
@@ -1530,7 +1530,7 @@
             "open_issues": 4,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5297,
+            "stars": 5298,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1648,7 +1648,7 @@
             "open_issues": 1,
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2543,
+            "stars": 2545,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1701,7 +1701,7 @@
             "open_issues": 13,
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1846,
+            "stars": 1847,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:16:14.953Z",
+    "last_updated": "2026-09-25T15:21:04.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
