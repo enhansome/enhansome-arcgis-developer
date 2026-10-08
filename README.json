@@ -93,7 +93,7 @@
                 "id": 15115821,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-01T13:52:05Z",
+                "last_commit": "2026-10-08T14:25:50Z",
                 "open_issues": 0,
                 "owner": "Esri",
                 "repo": "cityengine-sdk",
@@ -557,11 +557,11 @@
                 "id": 6148317,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T07:23:25Z",
-                "open_issues": 596,
+                "last_commit": "2026-10-08T12:41:58Z",
+                "open_issues": 599,
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6086,
+                "stars": 6088,
                 "topics": [
                   "geospatial-data",
                   "raster",
@@ -804,7 +804,7 @@
                 "open_issues": 125,
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4187,
+                "stars": 4188,
                 "topics": [
                   "csv",
                   "geojson",
@@ -1164,7 +1164,7 @@
             "open_issues": 125,
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4187,
+            "stars": 4188,
             "topics": [
               "csv",
               "geojson",
@@ -1248,7 +1248,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10513,
+            "stars": 10514,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1444,11 +1444,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-06T21:36:16Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-08T15:37:23Z",
+            "open_issues": 164,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79363,
+            "stars": 79382,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1500,7 +1500,7 @@
             "open_issues": 92,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5557,
+            "stars": 5559,
             "topics": [
               "awesome",
               "geo",
@@ -1527,10 +1527,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-07T07:07:00Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5311,
+            "stars": 5314,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1627,7 +1627,7 @@
             "open_issues": 3,
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2634,
+            "stars": 2633,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:55.154Z"
@@ -1648,7 +1648,7 @@
             "open_issues": 1,
             "owner": "tmcw",
             "repo": "awesome-geojson",
-            "stars": 2547,
+            "stars": 2546,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1674,7 +1674,7 @@
             "open_issues": 2,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2348,
+            "stars": 2350,
             "topics": [
               "awesome",
               "change-detection",
@@ -1743,7 +1743,7 @@
             "open_issues": 9,
             "owner": "acgeospatial",
             "repo": "awesome-earthobservation-code",
-            "stars": 1381,
+            "stars": 1382,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:27:51.486Z",
+    "last_updated": "2026-10-08T17:26:53.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
