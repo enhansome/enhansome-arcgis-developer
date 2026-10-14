@@ -308,7 +308,7 @@
             "id": 44304560,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T07:40:46Z",
+            "last_commit": "2026-10-14T05:17:01Z",
             "open_issues": 0,
             "owner": "EsriJapan",
             "repo": "arcgis-dev-resources",
@@ -557,11 +557,11 @@
                 "id": 6148317,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T15:34:42Z",
-                "open_issues": 598,
+                "last_commit": "2026-10-13T23:16:28Z",
+                "open_issues": 601,
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6098,
+                "stars": 6100,
                 "topics": [
                   "geospatial-data",
                   "raster",
@@ -800,11 +800,11 @@
                 "id": 8297971,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T03:15:20Z",
+                "last_commit": "2026-10-14T04:38:54Z",
                 "open_issues": 122,
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4189,
+                "stars": 4190,
                 "topics": [
                   "csv",
                   "geojson",
@@ -1160,11 +1160,11 @@
             "id": 8297971,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T03:15:20Z",
+            "last_commit": "2026-10-14T04:38:54Z",
             "open_issues": 122,
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4189,
+            "stars": 4190,
             "topics": [
               "csv",
               "geojson",
@@ -1192,7 +1192,7 @@
             "open_issues": 28,
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2266,
+            "stars": 2267,
             "topics": [
               "geojson"
             ]
@@ -1248,7 +1248,7 @@
             "open_issues": 290,
             "owner": "Turfjs",
             "repo": "turf",
-            "stars": 10517,
+            "stars": 10519,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1387,7 +1387,7 @@
             "open_issues": 3,
             "owner": "Esri",
             "repo": "cim-spec",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "cartography",
               "desktop",
@@ -1444,11 +1444,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-13T17:33:16Z",
+            "last_commit": "2026-10-13T20:57:00Z",
             "open_issues": 164,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79473,
+            "stars": 79487,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1497,10 +1497,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5568,
+            "stars": 5570,
             "topics": [
               "awesome",
               "geo",
@@ -1527,10 +1527,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-07T07:07:00Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5324,
+            "stars": 5326,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1627,7 +1627,7 @@
             "open_issues": 3,
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2633,
+            "stars": 2632,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:55.154Z"
@@ -1674,7 +1674,7 @@
             "open_issues": 3,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2356,
+            "stars": 2358,
             "topics": [
               "awesome",
               "change-detection",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:40:06.437Z",
+    "last_updated": "2026-10-14T15:14:15.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
