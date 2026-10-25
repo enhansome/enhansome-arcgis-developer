@@ -119,7 +119,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 * iOS:
   * [ArcGIS Maps SDK for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Maps SDK for iOS product team samples.
 * JavaScript:
-  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 774 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08 - A collection of resources for developers using the ArcGIS API for JavaScript.
+  * [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) ⭐ 775 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08 - A collection of resources for developers using the ArcGIS API for JavaScript.
   * [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) ⭐ 393 | 🐛 63 | 🌐 TypeScript | 📅 2026-09-24 - Demo apps built by Esri's REST JS maintainers.
   * [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) ⭐ 28 | 🐛 11 | 🌐 HTML | 📅 2025-10-01 - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
   * [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-20 - A collection of code snippets for ArcGIS API for JavaScript.
@@ -138,7 +138,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 ## Data conversion tools
 
 * Core geospatial processing libraries:
-  * [gdal](https://github.com/OSGeo/gdal) ⭐ 6,113 | 🐛 607 | 🌐 C++ | 📅 2026-10-23 - Translator library for raster and vector geospatial data formats.
+  * [gdal](https://github.com/OSGeo/gdal) ⭐ 6,118 | 🐛 607 | 🌐 C++ | 📅 2026-10-23 - Translator library for raster and vector geospatial data formats.
   * [loam](https://github.com/azavea/loam) ⭐ 226 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-09 - JavaScript wrapper for GDAL in the browser.
   * [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Python interface to the ArcGIS geoprocessing framework for automating spatial analysis, data management, and mapping.
 * Format conversion:
@@ -251,7 +251,7 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 <!--lint disable double-link-->
 
-* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,524 | 🐛 292 | 🌐 TypeScript | 📅 2026-10-21 - Geospatial analysis for browsers and Node.js.
+* [Turf.js](https://github.com/Turfjs/turf) ⭐ 10,526 | 🐛 292 | 🌐 TypeScript | 📅 2026-10-21 - Geospatial analysis for browsers and Node.js.
 * [Esri/gis-tools-for-hadoop](https://github.com/Esri/gis-tools-for-hadoop) ⭐ 524 | 🐛 21 | 📅 2022-04-07 - Collection of GIS tools for spatial analysis of big data.
 * [Esri/spatial-framework-for-hadoop](https://github.com/Esri/spatial-framework-for-hadoop) ⭐ 376 | 🐛 25 | 🌐 Java | 📅 2026-10-12 - Allows developers and data scientists to use the Hadoop data processing system for spatial data analysis.
 * [ArcGIS Analysis services](https://developers.arcgis.com/rest/analysis-services/) - Spatial, raster, elevation, hydrology, and utility network analysis.
@@ -281,14 +281,14 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 **Related awesome lists**
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,716 | 🐛 165 | 📅 2026-10-22 - A topic-centric list of high-quality open datasets.
-* [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,844 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,592 | 🐛 114 | 📅 2026-07-21 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,341 | 🐛 20 | 📅 2026-10-17 - Databases, radar, lidar, web map development, etc.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,737 | 🐛 165 | 📅 2026-10-22 - A topic-centric list of high-quality open datasets.
+* [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,846 | 🐛 17 | 📅 2021-05-08 - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
+* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,594 | 🐛 114 | 📅 2026-07-21 - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+* [awesome-geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,345 | 🐛 21 | 📅 2026-10-17 - Databases, radar, lidar, web map development, etc.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived - List of satellite image training datasets with annotations for computer vision and deep learning.
 * [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) ⚠️ Archived - JSON datasets that don't require authentication about: climate, crime, government, NASA, travel, etc.
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,634 | 🐛 3 | 📅 2026-08-10 - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
-* [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,553 | 🐛 1 | 📅 2026-09-23 - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
+* [awesome-geojson](https://github.com/tmcw/awesome-geojson) ⭐ 2,552 | 🐛 1 | 📅 2026-09-23 - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
 * [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,362 | 🐛 2 | 📅 2026-09-09 - List of datasets, codes, and contests related to remote sensing change detection.
 * [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,861 | 🐛 15 | 📅 2026-05-26 - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
 * [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) ⭐ 1,387 | 🐛 12 | 🌐 HTML | 📅 2026-05-13 - Tools, tutorials, code, helpful projects, and links about Earth Observation and Geospatial stuff.
@@ -300,15 +300,15 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 Any open issues are fair game. Even just telling us what you want to see would be extremely helpful!
 
-You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) ⭐ 335 | 🐛 11 | 📅 2026-04-14 to request or suggest a specific resource.
+You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issues/new) ⭐ 336 | 🐛 11 | 📅 2026-04-14 to request or suggest a specific resource.
 
 <!--lint disable no-emphasis-as-heading-->
 
 **Contributing**
 
-Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) ⭐ 335 | 🐛 11 | 📅 2026-04-14 to propose an update, but before doing it, please:
+Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) ⭐ 336 | 🐛 11 | 📅 2026-04-14 to propose an update, but before doing it, please:
 
-* Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues) ⭐ 335 | 🐛 11 | 📅 2026-04-14.
+* Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues) ⭐ 336 | 🐛 11 | 📅 2026-04-14.
 * Check the [contributing guidelines for this repo](./CONTRIBUTING.md).
 
 For more information, please see Esri's [guidelines for contributing](https://github.com/esri/contributing) ⭐ 17 | 🐛 1 | 📅 2026-05-20.
@@ -321,4 +321,4 @@ Copyright 2025 Esri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
