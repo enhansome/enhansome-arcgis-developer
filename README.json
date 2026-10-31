@@ -396,7 +396,7 @@
                 "id": 96794098,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T23:02:14Z",
+                "last_commit": "2026-10-30T17:50:59Z",
                 "open_issues": 64,
                 "owner": "Esri",
                 "repo": "arcgis-rest-js",
@@ -557,11 +557,11 @@
                 "id": 6148317,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T15:51:23Z",
-                "open_issues": 606,
+                "last_commit": "2026-10-30T19:03:16Z",
+                "open_issues": 608,
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6127,
+                "stars": 6128,
                 "topics": [
                   "geospatial-data",
                   "raster",
@@ -804,7 +804,7 @@
                 "open_issues": 123,
                 "owner": "mbloch",
                 "repo": "mapshaper",
-                "stars": 4199,
+                "stars": 4200,
                 "topics": [
                   "csv",
                   "geojson",
@@ -1164,7 +1164,7 @@
             "open_issues": 123,
             "owner": "mbloch",
             "repo": "mapshaper",
-            "stars": 4199,
+            "stars": 4200,
             "topics": [
               "csv",
               "geojson",
@@ -1192,7 +1192,7 @@
             "open_issues": 28,
             "owner": "mapbox",
             "repo": "geojson.io",
-            "stars": 2275,
+            "stars": 2276,
             "topics": [
               "geojson"
             ]
@@ -1448,7 +1448,7 @@
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79857,
+            "stars": 79873,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1474,7 +1474,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10847,
+            "stars": 10848,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1497,7 +1497,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "sshuair",
             "repo": "awesome-gis",
             "stars": 5606,
@@ -1527,10 +1527,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-29T09:26:02Z",
-            "open_issues": 32,
+            "open_issues": 36,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5352,
+            "stars": 5354,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1567,7 +1567,7 @@
             "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3921,
+            "stars": 3922,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1597,7 +1597,7 @@
             "open_issues": 0,
             "owner": "jdorfman",
             "repo": "awesome-json-datasets",
-            "stars": 3620,
+            "stars": 3621,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1627,7 +1627,7 @@
             "open_issues": 3,
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2634,
+            "stars": 2635,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:55.154Z"
@@ -1674,7 +1674,7 @@
             "open_issues": 2,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2365,
+            "stars": 2366,
             "topics": [
               "awesome",
               "change-detection",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:44:30.371Z",
+    "last_updated": "2026-10-31T15:47:46.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
