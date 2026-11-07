@@ -396,8 +396,8 @@
                 "id": 96794098,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T19:24:37Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-07T00:27:49Z",
+                "open_issues": 63,
                 "owner": "Esri",
                 "repo": "arcgis-rest-js",
                 "stars": 394,
@@ -557,11 +557,11 @@
                 "id": 6148317,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T17:14:34Z",
-                "open_issues": 610,
+                "last_commit": "2026-11-07T14:06:36Z",
+                "open_issues": 608,
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6133,
+                "stars": 6136,
                 "topics": [
                   "geospatial-data",
                   "raster",
@@ -1245,7 +1245,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-04T12:41:40Z",
-            "open_issues": 296,
+            "open_issues": 299,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10536,
@@ -1444,11 +1444,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-06T16:49:54Z",
+            "last_commit": "2026-11-07T15:44:21Z",
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79965,
+            "stars": 79975,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1527,7 +1527,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T18:58:37Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
             "stars": 5365,
@@ -1567,7 +1567,7 @@
             "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3920,
+            "stars": 3921,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1627,7 +1627,7 @@
             "open_issues": 0,
             "owner": "mapbox",
             "repo": "awesome-vector-tiles",
-            "stars": 2635,
+            "stars": 2634,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:55.154Z"
@@ -1701,7 +1701,7 @@
             "open_issues": 16,
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1876,
+            "stars": 1877,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:34:17.772Z",
+    "last_updated": "2026-11-07T16:32:20.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
