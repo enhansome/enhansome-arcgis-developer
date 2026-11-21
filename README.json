@@ -557,11 +557,11 @@
                 "id": 6148317,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T15:34:06Z",
+                "last_commit": "2026-11-20T22:15:27Z",
                 "open_issues": 607,
                 "owner": "OSGeo",
                 "repo": "gdal",
-                "stars": 6168,
+                "stars": 6170,
                 "topics": [
                   "geospatial-data",
                   "raster",
@@ -1245,7 +1245,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-17T15:33:06Z",
-            "open_issues": 302,
+            "open_issues": 303,
             "owner": "Turfjs",
             "repo": "turf",
             "stars": 10552,
@@ -1444,11 +1444,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-20T17:53:17Z",
+            "last_commit": "2026-11-21T16:51:05Z",
             "open_issues": 170,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80215,
+            "stars": 80236,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1474,7 +1474,7 @@
             "open_issues": 17,
             "owner": "mrgloom",
             "repo": "awesome-semantic-segmentation",
-            "stars": 10850,
+            "stars": 10851,
             "topics": [
               "benchmark",
               "deeplearning",
@@ -1497,10 +1497,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-21T09:10:54Z",
-            "open_issues": 145,
+            "open_issues": 146,
             "owner": "sshuair",
             "repo": "awesome-gis",
-            "stars": 5633,
+            "stars": 5634,
             "topics": [
               "awesome",
               "geo",
@@ -1527,10 +1527,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-18T20:03:15Z",
-            "open_issues": 4,
+            "open_issues": 7,
             "owner": "sacridini",
             "repo": "Awesome-Geospatial",
-            "stars": 5379,
+            "stars": 5382,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1567,7 +1567,7 @@
             "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3922,
+            "stars": 3923,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1674,7 +1674,7 @@
             "open_issues": 2,
             "owner": "wenhwu",
             "repo": "awesome-remote-sensing-change-detection",
-            "stars": 2375,
+            "stars": 2377,
             "topics": [
               "awesome",
               "change-detection",
@@ -1701,7 +1701,7 @@
             "open_issues": 16,
             "owner": "softwareunderground",
             "repo": "awesome-open-geoscience",
-            "stars": 1888,
+            "stars": 1887,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
             "open_issues": 15,
             "owner": "acgeospatial",
             "repo": "awesome-earthobservation-code",
-            "stars": 1390,
+            "stars": 1391,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1805,7 +1805,7 @@
             "open_issues": 10,
             "owner": "Esri",
             "repo": "awesome-arcgis-developers",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "arcgis",
               "arcgis-apis",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:39:48.543Z",
+    "last_updated": "2026-11-21T17:39:04.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services",
@@ -1848,7 +1848,7 @@
       "open_issues": 10,
       "owner": "Esri",
       "repo": "awesome-arcgis-developers",
-      "stars": 337,
+      "stars": 338,
       "topics": [
         "arcgis",
         "arcgis-apis",
